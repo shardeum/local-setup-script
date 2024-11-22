@@ -24,7 +24,7 @@ The script will help install these, but your system should be capable of running
 1. Download the setup script: 
 
 ```bash
-git clone `this repo`
+git clone https://github.com/shardeum/local-setup-script.git
 chmod +x setup.sh
 ```
 
